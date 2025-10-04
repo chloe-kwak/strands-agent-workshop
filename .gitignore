@@ -39,3 +39,4 @@ var/
 .vscode/
 *.swp
 *.swo
+.ipynb_checkpoints/
