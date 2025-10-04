@@ -1,2 +1,0 @@
-opensearch_collection_name: 'memory-store'
-opensearch_description: 'Memory vector store'
