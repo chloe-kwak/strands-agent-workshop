@@ -14,7 +14,7 @@
 - [시작하기](#시작하기)
 - [참고 자료](#참고-자료)
 
-## 데모 Video
+## Strands Agent Workhop 소개 Video
 
 ![Video](https://github.com/user-attachments/assets/2e5c8b49-10c1-492f-aa9d-36788f06c83b)
 
