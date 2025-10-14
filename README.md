@@ -14,6 +14,12 @@
 - [시작하기](#시작하기)
 - [참고 자료](#참고-자료)
 
+## 데모 Video
+
+<video width="640" height="360" controls>
+  <source src="[https://github.com/user-attachments/assets/b7a015d4-3ac0-448e-88c7-f4d5be475e68]" type="video/mp4">
+</video>
+
 ## 워크샵 구성
 
 ### [01-strands를 이용한 첫 agent 만들기](./01-strands를%20이용한%20첫%20agent%20만들기/)
