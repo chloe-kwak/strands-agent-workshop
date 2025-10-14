@@ -16,9 +16,7 @@
 
 ## 데모 Video
 
-<video width="640" height="360" controls>
-  <source src="[https://github.com/user-attachments/assets/b7a015d4-3ac0-448e-88c7-f4d5be475e68]" type="video/mp4">
-</video>
+![Video](https://github.com/user-attachments/assets/2e5c8b49-10c1-492f-aa9d-36788f06c83b)
 
 ## 워크샵 구성
 
