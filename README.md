@@ -16,7 +16,7 @@
 
 ## 워크샵 소개 영상 (강추!) 
 
-![Video](https://github.com/user-attachments/assets/2e5c8b49-10c1-492f-aa9d-36788f06c83b)
+[📹 데모 동영상 보기](https://github.com/user-attachments/assets/2e5c8b49-10c1-492f-aa9d-36788f06c83b)
 
 ## 워크샵 구성
 
